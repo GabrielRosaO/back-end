@@ -1,0 +1,6 @@
+AIzaSyA_dWiGRrHrBvdMKDBdHSVdvE7hb_2itbI (API GEMINI)
+
+gbrielpank  -  aII1SnQeNHmloMWS (Senha acesso MONGODB)
+
+link - Mongo
+mongodb+srv://gbrielpank:<db_password>@cluster0.bf5ag.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
